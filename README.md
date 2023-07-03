@@ -1,5 +1,5 @@
 # Comprehensive-ML-Library
-A Comprehensive Machine Learning Library for Data Preprocessing, Analysis, and Classification
+A Comprehensive Machine Learning Library for Data Preprocessing, Analysis, Classification, and Testing
 
 ## Data Classifiers
 This library provides many data classifier models, such as:
